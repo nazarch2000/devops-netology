@@ -25,3 +25,9 @@ terraform.rc
 
 # Это только некоторые файлы и каталоги, которые могут быть добавлены в .gitignore при работе с Terraform. 
 # В зависимости от проекта могут быть и другие файлы, которые также следует исключить из репозитория.
+
+![image](https://github.com/nazarch2000/devops-netology/assets/106932460/c7387c91-0c07-4020-b833-2013c1adf097)
+![image](https://github.com/nazarch2000/devops-netology/assets/106932460/3693adfb-c5d2-40bd-aa5b-00c8c69d8b40)
+![image](https://github.com/nazarch2000/devops-netology/assets/106932460/8766b09d-7040-4f42-bf2b-91271e25fb0b)
+![image](https://github.com/nazarch2000/devops-netology/assets/106932460/a52288a2-4cc0-48f2-96e6-41ec8469fae0)
+
