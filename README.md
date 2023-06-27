@@ -1,3 +1,4 @@
+# Ryzhenko
 # devops-netology
 # В файлe .gitignore будут игнорироваться такие файлы как:
 *.tfstate 
